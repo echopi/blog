@@ -2,4 +2,4 @@
 
 Take notes,write blogs..
 
-[See issues](/issues)
+[See issues](https://github.com/echopi/blog/issues)
